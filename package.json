@@ -1,11 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
-    "body-parser": "^1.18.2",
-    "cors": "^2.8.4",
-    "express": "^4.16.2",
-    "nodemon": "^1.14.11"
+		"express": "^4.16.2",
+    		"body-parser": "^1.18.2",
+    		"cors": "^2.8.4",
+    		"nodemon": "^1.14.11"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,6 +15,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/ejaygbay/FCC_timeStamp/blog/master"
 	}
 }
